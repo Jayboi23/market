@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/market/static/css/main.9d0be855.css",
+    "main.js": "/market/static/js/main.22b1687a.js",
+    "static/js/787.5321f4d1.chunk.js": "/market/static/js/787.5321f4d1.chunk.js",
+    "static/media/T-shirt.png": "/market/static/media/T-shirt.b78af1c74f1f11aab787.png",
+    "static/media/model4.png": "/market/static/media/model4.c9d0bba29effa04903ba.png",
+    "static/media/phone-accessories.png": "/market/static/media/phone-accessories.c9d0bba29effa04903ba.png",
+    "static/media/powerbank.png": "/market/static/media/powerbank.bbf41f3b7e7ca679c972.png",
+    "static/media/phone.png": "/market/static/media/phone.05f0b5091ba97d90a8ef.png",
+    "static/media/laptop.png": "/market/static/media/laptop.1be5c8e1a2a3c1f3b8c7.png",
+    "static/media/watch.png": "/market/static/media/watch.2d1b850a405373102497.png",
+    "static/media/model1.png": "/market/static/media/model1.914479946915e25f3818.png",
+    "static/media/bag.png": "/market/static/media/bag.13f467aa822d3318e4fc.png",
+    "static/media/sneakers.png": "/market/static/media/sneakers.34df82b23ee6b66b2c34.png",
+    "static/media/model2.png": "/market/static/media/model2.cc9e32e8b70ddf33a4e9.png",
+    "static/media/test.jpg": "/market/static/media/test.e4495d39b26afa23bf4a.jpg",
+    "index.html": "/market/index.html",
+    "main.9d0be855.css.map": "/market/static/css/main.9d0be855.css.map",
+    "main.22b1687a.js.map": "/market/static/js/main.22b1687a.js.map",
+    "787.5321f4d1.chunk.js.map": "/market/static/js/787.5321f4d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0be855.css",
+    "static/js/main.22b1687a.js"
+  ]
+}
